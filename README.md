@@ -47,4 +47,4 @@ Ciclos: SIM — detectados pelas arestas de retorno na DFS.
 Betweenness Centrality: Bentinho (0.9657) serve de ponte em praticamente todos os caminhos mínimos da rede.
 ---
 Uso de IA
-Os trechos gerados por IA estão declarados no relatório com indicação da ferramenta.
+80 a 90% do código gerado com o auxilio da IA para acerto do código.
