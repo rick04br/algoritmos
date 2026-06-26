@@ -48,3 +48,4 @@ Betweenness Centrality: Bentinho (0.9657) serve de ponte em praticamente todos o
 ---
 Uso de IA
 80 a 90% do código gerado com o auxilio da IA para acerto do código.
+Alem da IA(claude) pedi auxilio a amigos que trabalham na área para auxilio de escrita do codigo e explicação do porque de cada área do codigo.
