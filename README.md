@@ -114,4 +114,3 @@ caminhos mínimos da rede**, papel coerente com o de narrador onipresente.
 O código foi gerado com auxílio do **Claude (Anthropic)**.  
 Todos os trechos gerados por IA estão declarados no relatório com
 indicação da ferramenta.  
-A defesa oral verificará o entendimento linha a linha de cada algoritmo.
