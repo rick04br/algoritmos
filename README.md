@@ -12,8 +12,6 @@
 ```
 /
 ├── grafo_dom_casmurro.py          # Código principal — todos os algoritmos
-├── D6_dom_casmurro.csv            # Arestas: Source, Target, Weight
-├── D6_dom_casmurro_nodes.csv      # Nós: Id, Label
 └── README.md                      # Este arquivo
 ```
 
