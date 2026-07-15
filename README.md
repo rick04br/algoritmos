@@ -91,7 +91,7 @@ finalização [f]. Foram identificadas **32 arestas de retorno**
 ### 5. Ciclos
 **Sim** — detectados pela DFS. Exemplo: `Bentinho → Capitu → Escobar → Bentinho`.
 
-### 6. Betweenness Centrality (proposta pela dupla)
+### 6. Betweenness Centrality (proposta)
 *"Quais personagens são pontes narrativas na rede?"*
 
 | Personagem    | BC (normalizada) |
